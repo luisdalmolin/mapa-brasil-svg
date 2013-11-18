@@ -1,5 +1,7 @@
 # Mapa do Brasil em SVG
 
+![Preview](https://raw.github.com/luisdalmolin/mapa-brasil-svg/master/mapa-brasil-svg.jpg)
+
 Todos os estados possuem o ID com seus respectivos UF's, por exemplo **RS** ou **SP**.
 
 ### Cores
