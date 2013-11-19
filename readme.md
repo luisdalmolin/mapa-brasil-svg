@@ -10,4 +10,4 @@ Para customizar as cores do mapa, edite o bloco `<style>` contido dentro do arqu
 
 ### Licença
 
-MIT License.
+[MIT License](http://luisdalmolin.mit-license.org/) © Luis Dalmolin
